@@ -1,0 +1,483 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  background-color: #ffffff;
+}
+.para1 {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 12px;
+  color: #000000;
+}
+.nav {
+  background-image: url(./images/hero_holiday_2024_still_.jpg);
+  background-position: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+
+  width: 100%;
+}
+.para2 {
+  text-align: center;
+
+  margin-top: 1 0px;
+  padding-top: 60px;
+}
+.para2 h1 {
+  font-weight: 900;
+  font-size: xx-large;
+  width: 250px;
+  margin-left: 420px;
+}
+.para2 h3 {
+  font-weight: 500;
+}
+.para2 button {
+  color: white;
+  background-color: #0077ed;
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 10px;
+  border: none;
+}
+.para3 {
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 40px;
+}
+.para3 h1 {
+  color: white;
+
+  font-weight: 900;
+}
+.para3 h3 {
+  color: white;
+}
+.nav2 {
+  background-image: url(./images/iphone16pro_avail__fnf0f9x70jiy_small.jpg);
+  background-position: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  margin-bottom: 20px;
+  padding-top: 1px;
+  margin-top: 10px;
+  width: 100%;
+  padding-bottom: 30px;
+}
+.button {
+  color: white;
+  background-color: #0077ed;
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 15px;
+  border: none;
+}
+.btn {
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 15px;
+  margin-left: 10px;
+  border: 1px solid blue;
+  color: blue;
+  background-color: #311a14;
+}
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 98%;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 15px;
+}
+.nav3 {
+  flex: 1;
+  background-image: url(./images/promo_iphone16.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  margin-bottom: 20px;
+  padding-top: 5px;
+
+  width: 100%;
+  padding-bottom: 30px;
+}
+.nav4 {
+  flex: 1;
+  background-image: url(./images/promo_ipadair.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  width: 100%;
+  padding-bottom: 30px;
+}
+.para4 {
+  text-align: center;
+  padding-top: 30px;
+}
+.para4 h3 {
+  color: white;
+}
+.para4 h1 {
+  color: white;
+
+  font-weight: 900;
+}
+.button1 {
+  color: white;
+  background-color: #0077ed;
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 15px;
+  border: none;
+}
+.btn1 {
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 15px;
+  margin-left: 10px;
+  border: 1px solid blue;
+  color: blue;
+  background-color: #232d74;
+}
+.para5 {
+  text-align: center;
+  padding-top: 30px;
+}
+.para5 h3 {
+  color: black;
+}
+
+.button2 {
+  color: white;
+  background-color: #0077ed;
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 15px;
+  border: none;
+}
+.btn2 {
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 15px;
+  margin-left: 10px;
+  border: 1px solid blue;
+  color: blue;
+  background-color: #b8dfee;
+}
+.air {
+  color: #1b71bf;
+}
+.p {
+  margin-top: 280px;
+  color: #6ca2f7;
+}
+.main1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 98%;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 15px;
+}
+.nav5 {
+  flex: 1;
+  background-image: url(./images/apple_watch_series_10_avail_.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  margin-bottom: 20px;
+  padding-top: 5px;
+
+  width: 100%;
+  padding-bottom: 30px;
+}
+.para6 {
+  text-align: center;
+  padding-top: 30px;
+}
+.para6 h3 {
+  color: black;
+}
+.btn3 {
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 15px;
+  margin-left: 10px;
+  border: 1px solid blue;
+  color: blue;
+  background-color: #f5f5f7;
+}
+.button3 {
+  color: white;
+  background-color: #0077ed;
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 15px;
+  border: none;
+}
+.nav6 {
+  flex: 1;
+  background-image: url(./images/promo_macbook_air_m3__e43jegok3wuq_small.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  width: 100%;
+  padding-bottom: 30px;
+}
+.btn4 {
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 15px;
+  margin-left: 10px;
+  border: 1px solid blue;
+  color: blue;
+  background-color: #f5f5f7;
+}
+.button4 {
+  color: white;
+  background-color: #0077ed;
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 15px;
+  border: none;
+}
+.para7 {
+  text-align: center;
+  padding-top: 30px;
+}
+.para7 h3 {
+  color: black;
+}
+.para7 h1 {
+  color: black;
+}
+.main0 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 98%;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 15px;
+}
+.nav0 {
+  flex: 1;
+  background-image: url(./images/phone\ box.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  width: 100%;
+  padding-bottom: 30px;
+}
+.nav10 {
+  flex: 1;
+  background-image: url(./images/promo_apple_card__5cm7draujpey_large.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  width: 100%;
+  padding-bottom: 30px;
+}
+.para0 {
+  text-align: center;
+  padding-top: 30px;
+}
+.para0 h4 {
+  color: #1d1d1f;
+  width: 250px;
+  margin-left: 150px;
+}
+.para10 {
+  text-align: center;
+  padding-top: 30px;
+}
+.para10 h4 {
+  color: #1d1d1f;
+
+  width: 220px;
+  margin-left: 150px;
+}
+.btn10 {
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 15px;
+  margin-left: 10px;
+  border: 1px solid blue;
+  color: blue;
+  background-color: #f5f5f7;
+}
+.button10 {
+  color: white;
+  background-color: #0077ed;
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 15px;
+  border: none;
+}
+.button0 {
+  color: white;
+  background-color: #0077ed;
+  padding: 8px 15px;
+  font-size: small;
+  border-radius: 50px;
+  margin-top: 15px;
+  border: none;
+}
+.image {
+  background-image: url(./images/274x593.jpg);
+  margin-bottom: 20px;
+  background-position: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 70vh;
+
+  background-size: contain;
+}
+.btnpara {
+  padding-top: 300px;
+  padding-left: 50px;
+}
+.btnpara button {
+  padding: 8px 15px;
+  border-radius: 18px;
+  border: none;
+}
+.btnpara p {
+  color: white;
+}
+.thlast {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin-bottom: 20px;
+}
+.same {
+  flex: 1;
+}
+.same1 {
+  flex: 1;
+  background-color: #e2e2e2;
+  height: 30vh;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.so {
+  background-color: #f5f5f7;
+  width: 100%;
+  height: 225vh;
+}
+.heading {
+  margin-top: 50px;
+  padding-top: 20px;
+  gap: 30px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 850px;
+}
+.heading p {
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: 10px;
+  line-height: 16.0005px;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  border-top: 1px solid gray;
+}
+.div {
+  flex: 1;
+}
+.div p {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16.0005px;
+  margin-top: 8px;
+  margin-top: 10px;
+}
+.bold p {
+  font-weight: 600;
+  font-size: 12px;
+
+  line-height: 16.0005px;
+}
+.rrr {
+  margin-left: 130px;
+  margin-top: 30px;
+}
+.rrr p {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16.0005px;
+}
+.b2 {
+  color: blue;
+}
+.flex0 {
+  display: flex;
+  align-self: center;
+  justify-content: space-between;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  border-top: 1px solid gray;
+}
+.end p {
+  line-height: 16.0005px;
+  font-weight: 400;
+  font-size: 12px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
